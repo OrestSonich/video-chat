@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  .content {
+    padding: 0 190px;
+    flex-grow: 1;
+    min-height: 90vh;
+    font-family: "Ubuntu", sans-serif;
+  }
+}

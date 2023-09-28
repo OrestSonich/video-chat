@@ -1,0 +1,25 @@
+
+.main-page{
+  h1{
+    margin-top: 38px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    margin-bottom: 52px;
+  }
+  .section-holder{
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 35px 20px 20px;
+    h2{
+      margin: 0 0 20px 0;
+      padding: 0;
+      font-size: 28px;
+      font-weight: bold;
+    }
+  }
+}
